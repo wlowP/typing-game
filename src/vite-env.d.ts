@@ -5,8 +5,6 @@ interface ImportMetaEnv {
   readonly TYPE_SUPPORTED_EXTNAMES: string
 }
 
-
-
 interface ImportMeta {
   readonly env: ImportMetaEnv
 }
